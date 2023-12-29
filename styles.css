@@ -16,7 +16,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 10px;
     height: 100vh;
 }
 
@@ -29,6 +28,7 @@ body {
     flex-direction: column;
     justify-content: center;
     max-width: 375px;
+    gap: 10px;
     overflow: hidden;
 }
 
